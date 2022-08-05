@@ -45,8 +45,6 @@ cirq-unstable==0.8.0.dev20200312000748
 click==8.0.3
 click-plugins==1.1.1
 cligj==0.7.2
-cloudpickle==2.1.0
-clyent==1.2.2
 colorama==0.4.5
 colorcet==3.0.0
 commonmark==0.9.1
